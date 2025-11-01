@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTrash } from '@fortawesome/free-solid-svg-icons';
 import Footer from './Footer';
 
+// Modified in some parts on this file
 
 const DoctorsRoster = () => {
   const navigate = useNavigate();

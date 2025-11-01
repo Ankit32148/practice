@@ -12,6 +12,7 @@ import { faEye, faEyeSlash } from "@fortawesome/free-solid-svg-icons";
 
 // Changes done by ankit in many places
 
+// Modified in functions
 export default function ChangePassword({ isOpen, onClose }) {
   const [form, setForm] = useState({
     emp_loginid: "",
