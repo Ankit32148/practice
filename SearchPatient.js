@@ -4,7 +4,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFileInvoice, faUpload } from '@fortawesome/free-solid-svg-icons';
 import Footer from './Footer';
 
-
+// I Changed in some functions
+// Now the code is proper working
 
 
 const SearchPatient = () => {

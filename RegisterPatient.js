@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import idProofOptions from '../data/idProof.json';
 import Footer from './Footer';
-
+// modified the code
 const RegisterPatient = () => {
   const navigate = useNavigate();
   const location = useLocation();
