@@ -4,7 +4,7 @@ import doctortype from '../data/doctortype.json';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEye, faEyeSlash } from '@fortawesome/free-solid-svg-icons';
 import Footer from './Footer';
-
+// change in html part
 const RegisterDoctor = () => {
   const [form, setForm] = useState({
     doctor_name: '',
